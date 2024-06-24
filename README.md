@@ -25,8 +25,8 @@ I developed a real-time 2D object recognition system. The first step involves th
   Features used were: the height-to-width ratio, the percentage of the oriented bounding box filled, and the first Hu moment, which is also known as the centroid moment. The first Hu moment represents the ratio of central x and y moments to its area. It measures how spread out the object is around its centroid, with smaller values indicating a more compact shape and larger values indicating a more spread-out shape.
 
 ### Real Time Demo
-1. Multiple Objects Recognition: https://drive.google.com/file/d/1sHB-tjR9BK_2al4UmgTQfZLogU5vbwdO/view 
-2. Recognizing Unknown Objects: https://drive.google.com/file/d/1P6Vl8hKe6ir3X5t8BY_z2pMxyPMqcpWg/view  
+1. Multiple Objects Recognition: https://drive.google.com/file/d/10MzExfBppKaCkNESPtcJaIyz5V8hXSRi/view?usp=sharing
+2. Recognizing Unknown Objects: https://drive.google.com/file/d/1n3vxoAAsuEY3D5gY3iBGcrnnUgNtvobG/view?usp=sharing
 
 ## Instructions
 Run `objectRecognition.cpp`
